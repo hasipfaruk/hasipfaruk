@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haseeb Farooq</h1>
 <h3 align="center">A passionate AI developer at Mexasol</h3>
 
-- 🔭 I’m currently working at [Mexasol](https://mexasol.com/)
+- 🔭 I’m currently working at [h7techs](https://h7techs.com/)
 
 - 💬 Ask me about **Python, Django, AI&ML**
 
