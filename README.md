@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haseeb Farooq</h1>
-<h3 align="center">A passionate AI developer at Mexasol</h3>
+<h3 align="center">A passionate AI developer at h7techs</h3>
 
 - 🔭 I’m currently working at [h7techs](https://h7techs.com/)
 
