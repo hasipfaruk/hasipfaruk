@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haseeb Farooq</h1>
 <h3 align="center">A passionate AI developer at devfactory.io</h3>
 
-- 🔭 I’m currently working at [h7techs](https://devfactory.io)
+- 🔭 I’m currently working at [Devfactory.io](https://devfactory.io)
 
 - 💬 Ask me about **Python, Django, AI&ML**
 
