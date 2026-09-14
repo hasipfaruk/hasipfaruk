@@ -61,17 +61,6 @@ AI developer focused on turning research-grade models into systems that hold up 
 
 ---
 
-## Featured Work
-
-> Replace these with your three strongest repositories — pinned projects with a clear one-line "what it does and why it matters" beat recruiters skimming a wall of badges.
-
-| Project | What it does | Stack |
-|---|---|---|
-| [project-one](#) | One-line description of the problem it solves | Python · PyTorch · Docker |
-| [project-two](#) | One-line description of the problem it solves | Django · PostgreSQL |
-| [project-three](#) | One-line description of the problem it solves | OpenCV · FastAPI |
-
----
 
 ## GitHub Activity
 
