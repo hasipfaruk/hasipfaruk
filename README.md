@@ -1,79 +1,119 @@
 <div align="center">
 
-# Haseeb Farooq
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Haseeb%20Farooq&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Haseeb Farooq banner" />
 
-**AI / ML Engineer** · Python · Django · Computer Vision
+<a href="https://github.com/hasipfaruk">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Turning+research-grade+models+into+production+systems;Computer+Vision+%7C+Deep+Learning+%7C+MLOps;Python+%C2%B7+Django+%C2%B7+PyTorch+%C2%B7+Docker" alt="Typing animation" />
+</a>
 
-Building production ML systems at [Fourdevs.ai](https://Fourdevs.ai)
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haseeb-farooq-9158211b0/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/hasipfaruk)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/haseebfarooq35)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:haseebfarooq35@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haseeb-farooq-9158211b0/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/hasipfaruk)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/haseebfarooq35)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haseebfarooq35@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=hasipfaruk&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 
 </div>
 
 ---
 
-## About
+## 👋 About Me
 
-AI developer focused on turning research-grade models into systems that hold up in production. Day to day I work across the full stack of an ML product — data pipelines, model training, API layers, and the deployment infrastructure underneath.
+I'm an AI engineer at **[Fourdevs.ai](https://Fourdevs.ai)** focused on one problem: making models that look great in notebooks **hold up in production**.
 
-- 🔭 Currently engineering AI products at **Fourdevs.ai**
-- 🌱 Deepening my work in **deep learning, MLOps, and computer vision**
-- 💬 Happy to talk **Python, Django, ML architecture, and model deployment**
-- 📫 Reach me at **haseebfarooq35@gmail.com**
+I work across the whole life of an ML product, from raw data to a live endpoint:
+
+```python
+class Haseeb:
+    role     = "AI / ML Engineer @ Fourdevs.ai"
+    focus    = ["Computer Vision", "Deep Learning", "MLOps"]
+    backend  = ["Django", "Flask", "PostgreSQL"]
+    ships    = "Models that survive real traffic"
+
+    def open_to(self):
+        return ["ML collaborations", "Model deployment", "Architecture discussions"]
+```
 
 ---
 
-## Tech Stack
+## 🧭 What I Do
+
+| | Area | What it means in practice |
+|---|---|---|
+| 🧠 | **Model Development** | Training, tuning and evaluating deep learning and computer vision models in PyTorch and TensorFlow |
+| 🔄 | **Data Pipelines** | Cleaning, labeling, versioning and serving data reliably with Python, Pandas and SQL |
+| 🔌 | **API & Backend** | Wrapping models in robust Django / Flask services that other products can depend on |
+| 🚀 | **Deployment** | Containerizing and shipping with Docker, Kubernetes and NGINX on Linux |
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages & Core**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,html,css,postgres,mysql,sqlite" alt="Languages and databases" />
 
-**Machine Learning**
+**Machine Learning & Data**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas" alt="ML stack" />
 
-**Backend & Data**
+**Backend**
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=django,flask,postgres" alt="Backend stack" />
 
-**Infrastructure**
+**Infrastructure & Tooling**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-
-## GitHub Activity
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=hasipfaruk&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-![Streak](https://streak-stats.demolab.com/?user=hasipfaruk&theme=github-dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasipfaruk&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,git" alt="Infrastructure stack" />
 
 </div>
 
 ---
 
+## 🚀 Featured Projects
+
+> Replace the placeholders below with your best 3 to 4 repos. Recruiters skim this section most.
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[Project Name](https://github.com/hasipfaruk/repo)** | One sentence on the problem it solves and the result (e.g. accuracy, latency, users) | `PyTorch` `OpenCV` `Docker` |
+| **[Project Name](https://github.com/hasipfaruk/repo)** | One sentence on the problem it solves and the result | `Django` `PostgreSQL` `Kubernetes` |
+| **[Project Name](https://github.com/hasipfaruk/repo)** | One sentence on the problem it solves and the result | `TensorFlow` `Flask` `NGINX` |
+
+---
+
+## 📊 GitHub Activity
+
 <div align="center">
-<sub>Open to collaborating on interesting ML problems — drop me a line.</sub>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hasipfaruk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasipfaruk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=hasipfaruk&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 🌱 Currently
+
+- 🔭 Building AI products at **Fourdevs.ai**
+- 📚 Going deeper into **deep learning, MLOps and computer vision**
+- 💬 Ask me about **Python, Django, ML architecture and model deployment**
+
+---
+
+<div align="center">
+
+### 🤝 Let's build something
+
+Open to collaborating on interesting ML problems.
+
+[![Email me](https://img.shields.io/badge/Say%20hello-haseebfarooq35%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haseebfarooq35@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt="footer" />
+
 </div>
