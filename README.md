@@ -4,7 +4,7 @@
 
 **AI / ML Engineer** · Python · Django · Computer Vision
 
-Building production ML systems at [Devfactory](https://devfactory.io)
+Building production ML systems at [Fourdevs.ai](https://Fourdevs.ai)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haseeb-farooq-9158211b0/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/hasipfaruk)
@@ -19,7 +19,7 @@ Building production ML systems at [Devfactory](https://devfactory.io)
 
 AI developer focused on turning research-grade models into systems that hold up in production. Day to day I work across the full stack of an ML product — data pipelines, model training, API layers, and the deployment infrastructure underneath.
 
-- 🔭 Currently engineering AI products at **Devfactory**
+- 🔭 Currently engineering AI products at **Fourdevs.ai**
 - 🌱 Deepening my work in **deep learning, MLOps, and computer vision**
 - 💬 Happy to talk **Python, Django, ML architecture, and model deployment**
 - 📫 Reach me at **haseebfarooq35@gmail.com**
