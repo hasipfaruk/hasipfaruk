@@ -115,7 +115,7 @@ When you stack several prompt-injection defenses on one agent, do they actually 
 | AI Engineer (Part-time) | **Sclanet AI**, Lahore | Jul 2023 – Jul 2025 |
 | Junior Software Engineer (Part-time) | **DevFactory.io**, Lahore | Mar 2021 – Jun 2023 |
 
-🎓 **BS Software Engineering** (Specialization: AI & Intelligent Systems), The Islamia University of Bahawalpur, 2025
+🎓 **BS Software Engineering** (Specialization: AI & Intelligent Systems), The Islamia University of Bahawalpur
 
 📜 NVIDIA Fundamentals of Deep Learning · NVIDIA Getting Started with AI on Jetson Nano · Hugging Face NLP Course · Microsoft Azure Fundamentals (AZ-900)
 
