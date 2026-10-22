@@ -71,9 +71,7 @@ When you stack several prompt-injection defenses on one agent, do they actually 
 | 🛡️ **[Argus](https://github.com/hasipfaruk/Argus-appsec)** · *open source* | Security analysis across source code, APIs, cloud infra, containers, CI/CD and dependencies, with LLM-generated explanations and fixes aligned to CWE and OWASP | `Python` `LLMs` `DevSecOps` |
 | 🍽️ **[Noreception.ai](https://noreception.ai)** · *live* | Multi-tenant restaurant automation: voice ordering, reservations, POS/kitchen workflows and payments. **10 restaurants · 500+ orders/day** | `Python` `NestJS` `PostgreSQL` `Redis` `RabbitMQ` `Docker` |
 | 📞 **[Sandstorms.ai](https://sandstorms.ai)** · *live* | Production voice agents for scheduling, knowledge retrieval and business workflows. **1,000+ calls · latency cut from ~3s to ~1s** | `Python` `FastAPI` `STT` `TTS` `LLMs` |
-| 💬 **[Convinex AI](https://convinex.com)** · *live* | AI chatbot and live-chat SaaS for support, bookings and automated Q&A. **50+ businesses · 1,000+ conversations · 99.9% uptime** | `React` `Next.js` `PostgreSQL` `RAG` |
 | 🤖 **Robotic Shelf Inspection** · *private, Sclanet AI* | Mobile-robot vision that flags missing products, missing price labels and shelf irregularities, linked to an inventory dashboard. **4 camera streams at 60 FPS** | `NVIDIA Jetson` `PyTorch` `OpenCV` |
-| ⚖️ **Legal Assistant Chatbot** · *final-year project* | Context-grounded Q&A and case summarization over Pakistani law to support legal research | `Open-source LLM` `Vector DB` `RAG` |
 
 ---
 
