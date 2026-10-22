@@ -138,7 +138,7 @@ When you stack several prompt-injection defenses on one agent, do they actually 
 
 - 🔭 Building production AI systems at **FourDevs.ai**
 - 🔬 Running agent-security experiments on **prompt-injection defenses**
-- 🎓 Applying to **research-focused Master's programs in AI**
+- 🎓 Applying to **research-focused programs in AI**
 - 💬 Ask me about **LLM agents, voice AI, AI security or deploying models**
 
 ---
