@@ -73,6 +73,10 @@ When you stack several prompt-injection defenses on one agent, do they actually 
 | 📞 **[Sandstorms.ai](https://sandstorms.ai)** · *live* | Production voice agents for scheduling, knowledge retrieval and business workflows. **1,000+ calls · latency cut from ~3s to ~1s** | `Python` `FastAPI` `STT` `TTS` `LLMs` |
 | 🤖 **Robotic Shelf Inspection** · *private, Sclanet AI* | Mobile-robot vision that flags missing products, missing price labels and shelf irregularities, linked to an inventory dashboard. **4 camera streams at 60 FPS** | `NVIDIA Jetson` `PyTorch` `OpenCV` |
 
+Nephilex's hardened git runner was selected for the [XERJ Corpus Hub](https://hub.xerj.org/contributors/hasipfaruk), an open reference library that AI coding agents search before they write code.
+
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/hasipfaruk/badge.svg)](https://hub.xerj.org/contributors/hasipfaruk)
+
 ---
 
 ## 🛠️ Tech Stack
